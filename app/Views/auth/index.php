@@ -1,4 +1,4 @@
-<h1><?php echo lang('Auth.index_heading');?></h1>
+<h1><?php echo lang('Auth.index_heading');?></h1>    
 <p><?php echo lang('Auth.index_subheading');?></p>
 
 <div id="infoMessage"><?php echo $message;?></div>
